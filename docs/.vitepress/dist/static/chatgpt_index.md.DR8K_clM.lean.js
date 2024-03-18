@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.CD_OsDtH.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"chatgpt/index.md","filePath":"chatgpt/index.md"}'),n={name:"chatgpt/index.md"};function c(r,o,s,d,i,p){return a(),e("div")}const f=t(n,[["render",c]]);export{m as __pageData,f as default};

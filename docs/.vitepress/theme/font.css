@@ -1,0 +1,10 @@
+/**
+阿里妈妈方圆体 免费可商用字体
+**/
+@font-face {
+    font-family: "alifangyuan";
+    src: url('AlimamaFangYuanTiVF-Thin.woff2') format("woff2");
+    src: url('AlimamaFangYuanTiVF-Thin.woff') format("woff");
+    src: url('AlimamaFangYuanTiVF-Thin.ttf') format("ttf");
+    font-display: swap;
+}
