@@ -1,5 +1,16 @@
 /* .vitepress/theme/custom.css */
 :root {
-    --vp-font-family-base: /* normal text font */
-    --vp-font-family-mono: /* code font */
-  }
+  --vp-font-family-base: "PingFangSC", Aharoni;
+  --vp-font-family-mono: "PingFangSC", Aharoni;
+}
+@font-face {
+  font-family: "PingFangSC";
+  src: url('PingFangSC.ttf') format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Aharoni";
+  src: url('Aharoni\ Blod.ttf') format("ttf");
+  font-display: swap;
+}

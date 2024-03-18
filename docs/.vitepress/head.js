@@ -7,4 +7,7 @@ module.exports = [
     ['meta', { name:'Copyright', content:'Aueal'}],
     ['link', { rel:'stylesheet', href:'//at.alicdn.com/t/c/font_4467349_cbzzdzuuu1.css'}],    
     ['link', { rel:'prefetch', href:'//at.alicdn.com/t/c/font_4467349_cbzzdzuuu1.js'}],
+    ['link', { rel:'stylesheet', href:'//unpkg.com/element-plus@2.6.1/dist/index.css'}],
+    ['link', { rel:'prefetch', href:'//unpkg.com/vue@3.4.21/dist/vue.global.js'}],
+    ['link', { rel:'prefetch', href:'//unpkg.com/element-plus@2.6.1/dist/index.full.js'}],
 ]
