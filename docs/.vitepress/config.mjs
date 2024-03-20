@@ -81,7 +81,8 @@ export default defineConfig({
             { text: 'Email Helper', link: '/tools/email-helper' },
             { text: 'Two', link: '/tools/two' }
           ]
-        }
+        },
+        { text: '团队', link: '/team' }, 
       ],
 
       // 当用户位于 `chatgpt` 目录时，会显示此侧边栏
@@ -94,6 +95,7 @@ export default defineConfig({
             { text: 'Four', link: '/chatgpt/four' }
           ]
         },
+        { text: '团队', link: '/team' }, 
       ],
       '/art/': [
         {
@@ -160,6 +162,7 @@ export default defineConfig({
           ]
         },
         { text: 'Emoji 来源', link: 'https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.mjs' }, 
+        { text: '团队', link: '/team' }, 
       ],
     },
   }
