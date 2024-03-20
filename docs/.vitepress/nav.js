@@ -38,5 +38,4 @@ module.exports = [
       },
     ]
   },
-  { text: '团队', link: '/team' },
 ]
