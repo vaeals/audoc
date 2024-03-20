@@ -38,4 +38,6 @@ module.exports = [
       },
     ]
   },
+  { text: '登录', link: '/account/login' },
+  { text: '注册', link: '/account/register' },
 ]

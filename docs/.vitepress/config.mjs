@@ -28,6 +28,7 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://docs.aueal.com',
     lastmodDateOnly: false
+    
   },//站点地图
   themeConfig: {
     logo: {

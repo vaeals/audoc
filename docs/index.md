@@ -12,22 +12,20 @@ head:
     - name: keywords
       content: super duper SEO
 hero:
-  name: "艺创在线文档"
-  text: "艺创数字 · 创意文档网站"
-  tagline: 开源是世界上最大的贡献
+  name: "TUNX.Js"
+  text: "渐进式JavaScript框架"
+  tagline: 易学易用，性能出色，适用场景丰富的 Web 前端框架。
   image:
-    src: /images/hero.svg
+    light: /images/light-hero.png
+    dark: /images/dark-hero.png
     alt: aueal
   actions:
     - theme: brand
-      text: 🛠️  小工具
+      text: 🛠️ 使用 →
       link: /tools/steam-card
     - theme: brand
-      text: 😄ChatGPT
+      text: 😄Github
       link: /chatgpt/
-    - theme: brand
-      text: 😄  AI 绘画
-      link: /art/
 
 features:
   - icon: 🛠️
@@ -39,4 +37,8 @@ features:
   - icon: 😝
     title: 快速上手
     details: 轻松拿捏 · 跃跃欲试
+  - icon: 😝
+    title: 快速上手
+    details: 轻松拿捏 · 跃跃欲试
 ---
+<div style="height:400px;background:url(/images/background.webp);background-size:cover;border-radius:12px;margin-top:40px"></div>
